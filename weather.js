@@ -8,7 +8,7 @@ var uvIndex =
 var searchedArr = JSON.parse(localStorage.getItem("searchedItems")) || [];
 
 
-//taking in user input, and passing the value into a variable
+
 $(document).ready(function() {
   $("#search-input").on("click", function(event) {
     var userInput = $("#city-search").val()
