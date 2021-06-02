@@ -1,6 +1,4 @@
-/* * {
-    box-sizing: border-box;
-  } */
+
 
   body {
     background-image: url('./images-2.jpg');
@@ -21,7 +19,7 @@
   .form {
       width: 100%;
   }
-  /* Style the search field */
+  
   
   form.example input[type=text] {
     padding: 10px;
