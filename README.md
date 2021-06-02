@@ -41,6 +41,6 @@ HTML, CSS, Javascript
 
 * The URL of the GitHub repository: https://github.com/betielbetu/Weather-Dashboard
 
-* The URL of the deployed application:
+* The URL of the deployed application: https://betielbetu.github.io/Weather-Dashboard/
 
 
